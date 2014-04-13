@@ -10,6 +10,10 @@
 
 @interface BullsEyeViewController : UIViewController
 
+@property(nonatomic,weak)IBOutlet UISlider *slider;
+
+-(IBAction)startNewRound;
 -(IBAction)showAlert;
+-(IBAction)sliderMoved:(UISlider *)slider;
 
 @end
