@@ -16,29 +16,48 @@
 {
     int _currentValue;
     int _targetValue;
+    int _score;
+    int _round;
 }
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    [self startNewRound];
-    
+    [self startNewGame];
+    [self updateLabels ];
     
 }
 
 -(IBAction)showAlert
 {
-    NSString *message = [NSString stringWithFormat:@"The value of the slider is :%d\nThe target value is :%d",_currentValue,_targetValue];
+    int difference = abs(_targetValue - _currentValue);
+    int points = 100 - difference;
+    _score = _score + points;
+    
+    NSString *title ;
+    if (difference == 0 ){
+        title = @"Perfect!";
+    }else if (difference <5){
+        title = @"You almost had it!";
+    }else if (difference <10){
+        title = @"Pretty good!";
+    }else{
+        title = @"Not even close...";
+    }
+    
+    
+    NSString *message = [NSString stringWithFormat:@"You scored %d points",points];
     UIAlertView *alertView = [[UIAlertView alloc]
-                              initWithTitle:@"Hello world"
+                              initWithTitle:title
                               message:message
-                              delegate:nil
+                              delegate:self
                               cancelButtonTitle:@"OK"
                               otherButtonTitles:nil
                               ];
     [alertView show];
-    [self startNewRound];
+    //[self startNewRound];
+    //[self updateLabels ];
     
 }
 
@@ -50,13 +69,41 @@
     
 }
 
+-(void)updateLabels
+{
+    self.targetLable.text = [NSString stringWithFormat:@"%d",_targetValue];
+    self.scoreLable.text = [NSString stringWithFormat:@"%d",_score];
+    self.roundLable.text = [NSString stringWithFormat:@"%d",_round];
+}
+
+-(void)alertView:(UIAlertView *)alertView didDismissWithButtonIndex:(NSInteger)buttonIndex
+{
+    [self startNewRound];
+    [self updateLabels];
+    
+}
+
 -(void)startNewRound
 {
     _targetValue  =  1 + arc4random_uniform(100);
-    //_currentValue = 50;
+    _round = 1 + _round ;
     self.slider.value = _currentValue;
     
 }
+
+-(void)startOver
+{
+    [self startNewGame];
+    [self updateLabels];
+}
+
+-(void)startNewGame
+{
+    _score = 0;
+    _round = 0;
+    [self startNewRound];
+}
+
 
 
 - (void)didReceiveMemoryWarning
