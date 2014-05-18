@@ -21,6 +21,7 @@
 		F03161E918F8E4A800712D37 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F03161CB18F8E4A700712D37 /* UIKit.framework */; };
 		F03161F118F8E4A800712D37 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F03161EF18F8E4A800712D37 /* InfoPlist.strings */; };
 		F03161F318F8E4A800712D37 /* BullsEyeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F03161F218F8E4A800712D37 /* BullsEyeTests.m */; };
+		F0B23358190368100081B69F /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = F0B23357190368100081B69F /* BullsEye.html */; };
 		F0EDC80418FF90A6005F6536 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F03161D318F8E4A700712D37 /* main.m */; };
 		F0EDC80518FF90A6005F6536 /* BullsEyeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F03161DD18F8E4A700712D37 /* BullsEyeViewController.m */; };
 		F0EDC80618FF90A6005F6536 /* BullsEyeAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F03161D718F8E4A700712D37 /* BullsEyeAppDelegate.m */; };
@@ -63,6 +64,7 @@
 		F03161EE18F8E4A800712D37 /* BullsEyeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BullsEyeTests-Info.plist"; sourceTree = "<group>"; };
 		F03161F018F8E4A800712D37 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F03161F218F8E4A800712D37 /* BullsEyeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BullsEyeTests.m; sourceTree = "<group>"; };
+		F0B23357190368100081B69F /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 		F0EDC81218FF90A6005F6536 /* BullsEye-iPad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BullsEye-iPad.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0EDC81418FF90A6005F6536 /* BullsEye copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "BullsEye copy-Info.plist"; path = "/Users/wenlezhou/wenle_ios_demo/BullsEye/BullsEye copy-Info.plist"; sourceTree = "<absolute>"; };
 		F0EDC82519025131005F6536 /* AboutViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutViewController.h; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 		F03161CD18F8E4A700712D37 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				F0B23357190368100081B69F /* BullsEye.html */,
 				F03161DD18F8E4A700712D37 /* BullsEyeViewController.m */,
 				F03161DC18F8E4A700712D37 /* BullsEyeViewController.h */,
 				F03161D618F8E4A700712D37 /* BullsEyeAppDelegate.h */,
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F03161E018F8E4A700712D37 /* Images.xcassets in Resources */,
+				F0B23358190368100081B69F /* BullsEye.html in Resources */,
 				F03161D218F8E4A700712D37 /* InfoPlist.strings in Resources */,
 				F03161DB18F8E4A700712D37 /* Main.storyboard in Resources */,
 			);
