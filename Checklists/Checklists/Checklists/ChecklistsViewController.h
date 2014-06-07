@@ -10,4 +10,7 @@
 
 @interface ChecklistsViewController : UITableViewController
 
+-(void)toggleChecked;
+
 @end
+
