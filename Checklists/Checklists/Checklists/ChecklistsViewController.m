@@ -152,6 +152,23 @@
     label.text = item.text;
 }
 
+-(IBAction)addItem
+{
+    NSInteger newRowIndex = [_items count];
+    
+    ChecklistItem *item = [[ChecklistItem alloc]init ];
+    item.text = @"I am a new row";
+    item.checked = NO;
+    [_items addObject:item];
+    
+    NSIndexPath *indexPath = [NSIndexPath indexPathForRow:newRowIndex inSection:0];
+    NSArray *indexPaths = @[indexPath];
+   
+    [self.tableView insertRowsAtIndexPaths:indexPaths withRowAnimation:UITableViewRowAnimationAutomatic];
+    
+    
+    
 
+}
 
 @end

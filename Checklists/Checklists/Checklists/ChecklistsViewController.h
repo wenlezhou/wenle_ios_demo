@@ -11,6 +11,7 @@
 @interface ChecklistsViewController : UITableViewController
 
 -(void)toggleChecked;
+-(IBAction)addItem;
 
 @end
 

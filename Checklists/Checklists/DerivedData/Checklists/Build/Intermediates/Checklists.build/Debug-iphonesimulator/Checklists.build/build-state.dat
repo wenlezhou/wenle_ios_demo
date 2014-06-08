@@ -226,9 +226,9 @@ t1397200088
 s20812
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard
-c000000005392535D0000000000000FE4
-t1402098525
-s4068
+c000000005393B92300000000000015EF
+t1402190115
+s5615
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistItem.h
 c0000000053932D930000000000000146
@@ -261,14 +261,14 @@ t1399693781
 s2041
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.h
-c0000000053932D5E000000000000010C
-t1402154334
-s268
+c000000005393B6040000000000000120
+t1402189316
+s288
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m
-c0000000053932E340000000000000F0C
-t1402154548
-s3852
+c000000005393B7A600000000000010E1
+t1402189734
+s4321
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Images.xcassets
 c00000000536DA1D50000000000000088
@@ -299,8 +299,8 @@ t1402098023
 s62840
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o
-t1402154554
-s56024
+t1402190115
+s58124
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/main.o
 t1402098023
@@ -319,20 +319,20 @@ t1402098023
 s116768
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app
-t1402154554
+t1402190117
 s306
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM
-t1402154393
+t1402190117
 s102
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Base.lproj/Main.storyboardc
-t1402098593
+t1402190117
 s170
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists
-t1402154554
-s29124
+t1402190116
+s29400
 
 N/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Info.plist
 t1402098023
@@ -495,7 +495,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies98141fba6543b941^9b551fba6543b941^---0#1#1#--18"Check dependencies36"7E09D644-194E-48A7-B970-7B531008F2B0-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd93fdba5f043b941^5d19dca5f043b941^---0#1#1#--18"Check dependencies36"FE0954FC-C6A1-4219-9F3C-74214CA12BEE-
 
 CCompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Images.xcassets
 s423790823.620387
@@ -545,8 +545,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile
 b74363486-31A9-43AB-A6EA-3A7D2CDF93ED
 
 CCompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s423847354.122742
-e423847354.180390
+s423882915.383869
+e423882915.876658
 r1
 xCompileC
 xDerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o
@@ -566,8 +566,8 @@ o/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsView
 o-(void)toggleChecked;
 o^
 o1 warning generated.
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m260"CompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o Checklists/ChecklistsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere97d1fba6543b941^b62d2eba6543b941^-548"/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m:17:17: warning: method definition for 'toggleChecked' not found [-Wincomplete-implementation]@implementation ChecklistsViewController                ^In file included from /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m:9:/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.h:13:1: note: method 'toggleChecked' declared here-(void)toggleChecked;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@47"Method definition for 'toggleChecked' not found-423847354#18446744073709551615#0#1(2@36"Method 'toggleChecked' declared here-423847354#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.h0000000000000000^12#0#12#0#239#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m0000000000000000^16#16#16#16#280#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m0000000000000000^4339"CompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o Checklists/ChecklistsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/DerivedSources/i386 -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -include /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-duyeueufbtighyakstzfytuyopnt/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.dia -c /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o36"D17D407B-7C66-42A3-B3FA-80696D672CBE-
-bEE45D879-9D82-41D8-A0F9-EA5AF8E4618F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m260"CompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o Checklists/ChecklistsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera56663a3f043b941^666ce0a3f043b941^-548"/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m:17:17: warning: method definition for 'toggleChecked' not found [-Wincomplete-implementation]@implementation ChecklistsViewController                ^In file included from /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m:9:/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.h:13:1: note: method 'toggleChecked' declared here-(void)toggleChecked;^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@47"Method definition for 'toggleChecked' not found-423882915#18446744073709551615#0#1(2@36"Method 'toggleChecked' declared here-423882915#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.h0000000000000000^12#0#12#0#239#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m0000000000000000^16#16#16#16#280#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m0000000000000000^4339"CompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o Checklists/ChecklistsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Checklists-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/DerivedSources/i386 -I/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -include /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/PrecompiledHeaders/Checklists-Prefix-duyeueufbtighyakstzfytuyopnt/Checklists-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.dia -c /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/ChecklistsViewController.m -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/ChecklistsViewController.o36"0B483B54-64AB-4C46-8E9D-9ACC79A16673-
+b28958525-57E1-46EA-8244-0D0E0546FF98
 
 CCompileC DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/main.o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s423790823.360641
@@ -586,13 +586,13 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile
 b74363486-31A9-43AB-A6EA-3A7D2CDF93ED
 
 CCompileStoryboard /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard
-s423791392.160675
-e423791393.536705
+s423882916.105814
+e423882917.496800
 r1
 xCompileStoryboard
 x/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard Checklists/Base.lproj/Main.storyboard55"CompileStoryboard Checklists/Base.lproj/Main.storyboard613229208b42b941^8aaf96218b42b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard0000000000000000^916"CompileStoryboard Checklists/Base.lproj/Main.storyboard    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Base.lproj/Main.storyboardc /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard36"1287A957-4A7A-43C7-8920-AFA8887EACE4-
-b835D77AB-868C-485F-A959-A274C53833AB
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard Checklists/Base.lproj/Main.storyboard55"CompileStoryboard Checklists/Base.lproj/Main.storyboard07261ba4f043b941^012f7fa5f043b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard0000000000000000^916"CompileStoryboard Checklists/Base.lproj/Main.storyboard    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Base.lproj/Main.storyboardc /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Base.lproj/Main.storyboard36"E5478B58-974C-4E4E-8C7F-3DCF351CEEE3-
+b28958525-57E1-46EA-8244-0D0E0546FF98
 
 CCopyStringsFile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/en.lproj/InfoPlist.strings Checklists/en.lproj/InfoPlist.strings
 s423790823.620024
@@ -605,18 +605,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Ch
 b74363486-31A9-43AB-A6EA-3A7D2CDF93ED
 
 CGenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists
-s423847354.208269
-e423847354.221958
+s423882917.497440
+e423882917.523273
 r1
 xGenerateDSYMFile
 x/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM
 x/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generate /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM182"GenerateDSYMFile DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists5f5d35ba6543b941^b3d238ba6543b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM/0000000000000000^816"GenerateDSYMFile DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM36"33F7F57A-E40D-4E2B-9E08-44A5ED243672-
-bEE45D879-9D82-41D8-A0F9-EA5AF8E4618F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generate /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM182"GenerateDSYMFile DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists8c647fa5f043b941^23f685a5f043b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM/0000000000000000^816"GenerateDSYMFile DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app.dSYM36"6F0EE312-802E-4085-B247-626E871A4A80-
+b28958525-57E1-46EA-8244-0D0E0546FF98
 
 CLd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists normal i386
-s423847354.181498
-e423847354.206947
+s423882915.878489
+e423882916.104409
 r1
 xLd
 x/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists
@@ -665,12 +665,12 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/D
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
 d/usr/lib/system/libcompiler_rt.dylib
 d/usr/lib/system/libcopyfile.dylib
 d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
 d/usr/lib/system/libkeymgr.dylib
 d/usr/lib/system/liblaunch.dylib
 d/usr/lib/system/libmacho.dylib
@@ -691,8 +691,9 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists100"Ld DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists normal i38651822eba6543b941^55fb34ba6543b941^---0#0#1#--1647"Ld DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists normal i386    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -F/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -filelist /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/Checklists.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/Checklists_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists36"075CCBE3-F7F6-41B7-A41B-2B6BDA92C102-
-bEE45D879-9D82-41D8-A0F9-EA5AF8E4618F
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists100"Ld DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists normal i3860ef4e0a3f043b941^51bc1aa4f043b941^---0#0#1#--1647"Ld DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists normal i386    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -F/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator -filelist /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/Checklists.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Intermediates/Checklists.build/Debug-iphonesimulator/Checklists.build/Objects-normal/i386/Checklists_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Checklists36"FF03B80E-F6E5-4C6C-9BFB-36890364FB80-
+b28958525-57E1-46EA-8244-0D0E0546FF98
 
 CProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app/Info.plist /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/Checklists/Checklists-Info.plist
 s423790823.957937
@@ -723,11 +724,11 @@ CProcessPCH /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Ch
 r0
 
 CTouch /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app
-s423791393.581272
-e423791393.588215
+s423882917.523668
+e423882917.528828
 r1
 xTouch
 x/Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app80"Touch DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.appa1da94218b42b941^0fb896218b42b941^---0#0#1#--488"Touch DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app36"A2852FE8-629A-4966-AF90-E7336D807A98-
-b835D77AB-868C-485F-A959-A274C53833AB
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app80"Touch DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app5c1b86a5f043b941^dd6187a5f043b941^---0#0#1#--488"Touch DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app    cd /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/wenlezhou/wenle_ios_demo/Checklists/Checklists/DerivedData/Checklists/Build/Products/Debug-iphonesimulator/Checklists.app36"CCD4A3F0-CEDB-42D7-B052-E888D69DCAF9-
+b28958525-57E1-46EA-8244-0D0E0546FF98
 
