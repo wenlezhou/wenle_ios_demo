@@ -1,0 +1,193 @@
+TDemoNSDictionary
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch DemoNSDictionary/DemoNSDictionary-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000534794D0000000000000044C
+t1397200080
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534794D000000000000001DE
+t1397200080
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534794D100000000000C9E38
+t1397200081
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534794D80000000000000ADC
+t1397200088
+s2780
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/DemoNSDictionary-Prefix.pch
+c00000000539A847E00000000000000B6
+t1402635390
+s182
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m
+c00000000539A847E0000000000000159
+t1402635390
+s345
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/DemoNSDictionary.LinkFileList
+c00000000539A877100000000000000A6
+t1402636145
+s166
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o
+t1402636147
+s3672
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch
+t1402636147
+s117256
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary
+t2
+s0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/PFTTrackSegment.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/XRRun.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies389e27f1be4ab941^16132bf1be4ab941^---0#1#1#--18"Check dependencies36"FBD020F3-0936-48E6-A2A0-870D8F76F780-
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/PFTTrackSegment.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/PFTTrackSegment.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/XRRun.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/XRRun.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main-4DB48EAF11FD1F7C.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/Source/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main-CCC6905EEB6330A3.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424328947.097854
+e424328947.194223
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m268"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o DemoNSDictionary/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb02019f3be4ab941^c7b931f3be4ab941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m0000000000000000^3830"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o DemoNSDictionary/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/main.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o36"848FD1AA-94CB-4053-BEF6-6ACD11F29EC6-
+bF3BEA39B-6A64-4D50-947F-8BCF3EADCE27
+
+CLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary normal x86_64
+s424328947.194920
+e424328947.385521
+r1
+xLd
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary
+xnormal
+xx86_64
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/DemoNSDictionary.LinkFileList
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary119"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary normal x86_64a5f331f3be4ab941^7db262f3be4ab941^---0#0#1#--1237"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary normal x86_64    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -filelist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/DemoNSDictionary.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/Objects-normal/x86_64/DemoNSDictionary_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoNSDictionary36"915FFCBD-A80B-45DB-B600-6DA82367FAAE-
+bF3BEA39B-6A64-4D50-947F-8BCF3EADCE27
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch DemoNSDictionary/DemoNSDictionary-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424328945.174545
+e424328947.097135
+r1
+xProcessPCH
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch
+xDemoNSDictionary/DemoNSDictionary-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/DemoNSDictionary-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile DemoNSDictionary/DemoNSDictionary-Prefix.pch314"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch DemoNSDictionary/DemoNSDictionary-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler32e32df1be4ab941^7adf18f3be4ab941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/DemoNSDictionary-Prefix.pch0000000000000000^3775"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch DemoNSDictionary/DemoNSDictionary-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DemoNSDictionary-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoNSDictionary.build/Debug/DemoNSDictionary.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.d -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoNSDictionary/DemoNSDictionary/DemoNSDictionary-Prefix.pch -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoNSDictionary-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoNSDictionary-Prefix.pch.pch36"50AD75FA-EFE9-413D-A0E6-333775E49D9B-
+bF3BEA39B-6A64-4D50-947F-8BCF3EADCE27
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Index/PrecompiledHeaders/DemoNSDictionary-Prefix-gamoskygcrswaxgujqzkwdjuezyh_ast/DemoNSDictionary-Prefix.pch.pch DemoNSDictionary/DemoNSDictionary-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
