@@ -12,4 +12,8 @@
 - (void)showNSDictionary:(NSDictionary *)dict;
 - (void)setDemoDict1;
 - (void)setDemoDict2:(NSDictionary *)dict;
+- (void)setDemoDict3:(NSString *)str;
+- (NSMutableString *)formatNSDictionary:(NSDictionary *)dict;
+-(NSDictionary *)dictContentCopy:(NSDictionary *)destDict dictName2:(NSDictionary *)srcDict;
+
 @end

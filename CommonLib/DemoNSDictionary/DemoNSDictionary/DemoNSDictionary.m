@@ -13,6 +13,7 @@
     //创建一个空的字典
     NSDictionary *_demoDict1;
     NSDictionary *_demoDict2;
+    NSDictionary *_demoDict3;
 }
 
 
@@ -27,6 +28,37 @@
     _demoDict2 = dict;
     
 }
+
+-(void)setDemoDict3:(NSString *)str
+{
+    //创建一个字典，将字典中的内容设置为指定文件中的所有内容，其语法形式如下：
+    _demoDict3 = [NSDictionary dictionaryWithContentsOfFile:str];
+    NSLog([self formatNSDictionary:_demoDict3]);
+    
+}
+
+-(NSDictionary *)dictContentCopy:(NSDictionary *)destDict dictName2:(NSDictionary *)srcDict
+{
+    destDict = [NSMutableDictionary dictionaryWithDictionary:srcDict];
+//    NSLog([self formatNSDictionary:destDict]);
+    
+    return destDict;
+}
+
+
+-(NSMutableString *)formatNSDictionary:(NSDictionary *)dict
+{
+    NSMutableString *result = [NSMutableString string];
+    [result appendFormat:@"%@",dict];
+    return result;
+    
+    
+//    for (NSUInteger i = 0 ; i < [dict count];i++)
+//    {
+//        [result appendFormat:@"%@",dict];
+//    }
+}
+
 
 
 -(void)showNSDictionary:(NSDictionary *)dict

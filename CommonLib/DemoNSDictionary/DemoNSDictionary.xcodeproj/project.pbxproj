@@ -34,6 +34,7 @@
 		F04A9B39194AEC0A000B55D7 /* DemoNSDictionary.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DemoNSDictionary.1; sourceTree = "<group>"; };
 		F04A9B43194AEC61000B55D7 /* DemoNSDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoNSDictionary.h; sourceTree = "<group>"; };
 		F04A9B44194AEC61000B55D7 /* DemoNSDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoNSDictionary.m; sourceTree = "<group>"; };
+		F04A9B47194B064F000B55D7 /* 12.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = 12.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		F04A9B26194AEC0A000B55D7 = {
 			isa = PBXGroup;
 			children = (
+				F04A9B46194B0630000B55D7 /* resource */,
 				F04A9B34194AEC0A000B55D7 /* DemoNSDictionary */,
 				F04A9B31194AEC0A000B55D7 /* Frameworks */,
 				F04A9B30194AEC0A000B55D7 /* Products */,
@@ -91,6 +93,14 @@
 				F04A9B38194AEC0A000B55D7 /* DemoNSDictionary-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F04A9B46194B0630000B55D7 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				F04A9B47194B064F000B55D7 /* 12.plist */,
+			);
+			path = resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
