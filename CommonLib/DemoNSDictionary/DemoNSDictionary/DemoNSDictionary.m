@@ -73,4 +73,88 @@
     NSLog(result);
 }
 
+
+
+
+
+-(NSInteger )getDictCount:(NSDictionary *)dict
+{
+    
+    //获取字典的数量
+    NSInteger count=[dict count];
+    NSLog(@"%d",count);
+    return count;
+    
+}
+
+-(NSString *)getDictValueByKey:(NSDictionary *)dict keyName:(NSString *)key
+{
+    //获取k3的value
+    NSString *string=[dict objectForKey:key];
+    NSLog(@"value:%@",string);
+    return string;
+}
+
+-(NSArray *)getDictAllKey:(NSDictionary *)dict
+{
+    //获取字典中所有的key和value
+    NSArray *keyArray=[dict allKeys];
+    NSArray *valueArry=[dict allValues];
+    NSLog(@"keyArray:%@valueArry:%@",keyArray,valueArry);
+    return keyArray;
+
+}
+
+//字典的遍历
+-(void)iteratorDict1:(NSDictionary *)dict
+{
+    NSString *result = [NSString string];
+    
+    for (NSUInteger i = 0 ; i < [dict count];i++)
+    {
+        result = [dict objectForKey:[[dict allKeys]objectAtIndex:i]];
+        NSLog(result);
+    }
+    
+    
+}
+
+//字典的遍历
+-(void)iteratorDict2:(NSDictionary *)dict
+{
+   for (NSString *key in dict)
+   {
+       NSString *object = [dict objectForKey:key];
+       NSLog(@"[%@:%@]\n",key,object);
+       
+   }
+    
+    
+}
+
+//字典的遍历
+-(void)iteratorDict3:(NSDictionary *)dict
+{
+    NSEnumerator *nse = [dict keyEnumerator];
+    id key;
+    while(key=[nse nextObject])
+    {
+       id object = [dict objectForKey:key];
+       NSLog(@"[%@:%@]\n",key,object);
+    }
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
 @end

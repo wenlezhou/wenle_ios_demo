@@ -16,4 +16,12 @@
 - (NSMutableString *)formatNSDictionary:(NSDictionary *)dict;
 -(NSDictionary *)dictContentCopy:(NSDictionary *)destDict dictName2:(NSDictionary *)srcDict;
 
+-(NSInteger )getDictCount:(NSDictionary *)dict;
+-(NSString *)getDictValueByKey:(NSDictionary *)dict keyName:(NSString *)key;
+-(NSArray *)getDictAllKey:(NSDictionary *)dict;
+
+-(void)iteratorDict1:(NSDictionary *)dict;
+-(void)iteratorDict2:(NSDictionary *)dict;
+-(void)iteratorDict3:(NSDictionary *)dict;
+
 @end

@@ -59,7 +59,7 @@
     }
 }
 -(void) test_dictContentCopy
-{
+{   //此用例可以看到引用COPY与值COPY的区别
     @autoreleasepool {
         DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
         
@@ -81,6 +81,209 @@
     }
 }
 
+-(void) test_getDictCount
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1", @"value2", @"key2", nil];
+        
+        NSString *str1 =@"这个字典里有";
+        NSString *str2 =@"个元素";
+        NSInteger int1 = [dnsd getDictCount:demoDict1];
+        
+        NSLog([NSString stringWithFormat:@"%@%ld%@",str1,(long)int1,str2]);
+        
+    }
+    
+}
+
+-(void) test_getDictValueByKey
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1", @"value2", @"key2", nil];
+        
+        NSMutableString *str1 =[NSMutableString stringWithCapacity:100];
+        [str1 appendString:@"以"];
+        [str1 appendString:@"key2"];
+        [str1 appendString:@"为键值取出在字典["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",demoDict1]];
+        [str1 appendString:@"]"];
+        [str1 appendString:@"对应的值为["];
+        [str1 appendString:[dnsd getDictValueByKey: demoDict1 keyName:@"key2"]];
+        [str1 appendString:@"]"];
+        NSLog(str1);
+        
+    }
+    
+}
+
+-(void) test_getDictAllKey
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1",
+                                          @"value2", @"key2",
+                                          @"value3", @"key3",
+                                          @"value4", @"key4",
+                                          @"value5", @"key5",
+                                          @"value6", @"key6",
+                                          @"value7", @"key7",
+                                          @"value8", @"key8",
+                                          @"value9", @"key9",
+                                          @"value10", @"key10",
+                                          @"value11", @"key11",
+                                          @"value12", @"key12",
+                                          @"value13", @"key13",
+                                          @"value14", @"key14",
+                                          @"value15", @"key15",
+                                          @"value16", @"key16",
+                                          @"value17", @"key17",
+                                          @"value18", @"key18",
+                                          @"value19", @"key19",
+                                          @"value20", @"key20",nil];
+        
+        NSArray *arry = [dnsd getDictAllKey:demoDict1];
+        
+        
+        NSMutableString *str1 =[NSMutableString stringWithCapacity:100];
+        [str1 appendString:@"这个字典["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",demoDict1]];
+        [str1 appendString:@"]"];
+        [str1 appendString:@"里的所有的key分别为["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",arry]];
+        [str1 appendString:@"]"];
+        NSLog(str1);
+        
+        
+        
+    }
+    
+}
+
+-(void) test_iteratorDict1
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1",
+                                          @"value2", @"key2",
+                                          @"value3", @"key3",
+                                          @"value4", @"key4",
+                                          @"value5", @"key5",
+                                          @"value6", @"key6",
+                                          @"value7", @"key7",
+                                          @"value8", @"key8",
+                                          @"value9", @"key9",
+                                          @"value10", @"key10",
+                                          @"value11", @"key11",
+                                          @"value12", @"key12",
+                                          @"value13", @"key13",
+                                          @"value14", @"key14",
+                                          @"value15", @"key15",
+                                          @"value16", @"key16",
+                                          @"value17", @"key17",
+                                          @"value18", @"key18",
+                                          @"value19", @"key19",
+                                          @"value20", @"key20",nil];
+        
+        
+        NSMutableString *str1 =[NSMutableString stringWithCapacity:100];
+        [str1 appendString:@"这个字典["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",demoDict1]];
+        [str1 appendString:@"]"];
+        [str1 appendString:@"遍历出来的结果是：["];
+        NSLog(str1);
+        
+        [dnsd iteratorDict1:demoDict1];
+        
+        NSLog(@"]");
+        
+    }
+    
+}
+ 
+-(void) test_iteratorDict2
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1",
+                                          @"value2", @"key2",
+                                          @"value3", @"key3",
+                                          @"value4", @"key4",
+                                          @"value5", @"key5",
+                                          @"value6", @"key6",
+                                          @"value7", @"key7",
+                                          @"value8", @"key8",
+                                          @"value9", @"key9",
+                                          @"value10", @"key10",
+                                          @"value11", @"key11",
+                                          @"value12", @"key12",
+                                          @"value13", @"key13",
+                                          @"value14", @"key14",
+                                          @"value15", @"key15",
+                                          @"value16", @"key16",
+                                          @"value17", @"key17",
+                                          @"value18", @"key18",
+                                          @"value19", @"key19",
+                                          @"value20", @"key20",nil];
+        
+        
+        NSMutableString *str1 =[NSMutableString stringWithCapacity:100];
+        [str1 appendString:@"这个字典["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",demoDict1]];
+        [str1 appendString:@"]"];
+        [str1 appendString:@"遍历出来的结果是：["];
+        NSLog(str1);
+        
+        [dnsd iteratorDict2:demoDict1];
+        
+        NSLog(@"]");
+        
+    }
+    
+}
+
+-(void) test_iteratorDict3
+{
+    @autoreleasepool {
+        DemoNSDictionary *dnsd = [[DemoNSDictionary  alloc]init];
+        NSMutableDictionary* demoDict1 = [NSMutableDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1",
+                                          @"value2", @"key2",
+                                          @"value3", @"key3",
+                                          @"value4", @"key4",
+                                          @"value5", @"key5",
+                                          @"value6", @"key6",
+                                          @"value7", @"key7",
+                                          @"value8", @"key8",
+                                          @"value9", @"key9",
+                                          @"value10", @"key10",
+                                          @"value11", @"key11",
+                                          @"value12", @"key12",
+                                          @"value13", @"key13",
+                                          @"value14", @"key14",
+                                          @"value15", @"key15",
+                                          @"value16", @"key16",
+                                          @"value17", @"key17",
+                                          @"value18", @"key18",
+                                          @"value19", @"key19",
+                                          @"value20", @"key20",nil];
+        
+        
+        NSMutableString *str1 =[NSMutableString stringWithCapacity:100];
+        [str1 appendString:@"这个字典["];
+        [str1 appendString:[NSString stringWithFormat:@"%@",demoDict1]];
+        [str1 appendString:@"]"];
+        [str1 appendString:@"遍历出来的结果是：["];
+        NSLog(str1);
+        
+        [dnsd iteratorDict3:demoDict1];
+        
+        NSLog(@"]");
+        
+    }
+    
+}
+
 
 
 @end
@@ -95,7 +298,12 @@ int main(int argc, const char * argv[])
 //        [tc test_setDemoDict2];
 //        [tc test_showNSDictionary];
 //        [tc test_setDemoDict3];
-        [tc test_dictContentCopy];
+//        [tc test_dictContentCopy];
+//        [tc test_getDictCount];
+//        [tc test_getDictValueByKey];
+//        [tc test_getDictAllKey];
+//        [tc test_iteratorDict1];
+        [tc test_iteratorDict2];
         
         
     }
