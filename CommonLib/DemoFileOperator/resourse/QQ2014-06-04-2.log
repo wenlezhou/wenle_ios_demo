@@ -1,0 +1,110 @@
+2014-06-04 21:45:21.710 Info|15d3d3b0|23441|QSFileStorageEngine.mm:3014|||loadRecommendedGroups filePath /var/mobile/Applications/85487F04-D496-4595-98E0-0EDFF7519BBC/Documents/contents/85473375/RecommendGroups/RecommendGroupsNew.data
+2014-06-04 21:45:21.711 Info|15d3d3b0|23442|CIMEngine.mm:2555|||sso server time diff:-2
+2014-06-04 21:45:21.711 Info|15d3d3b0|23443|QSGroupRecommendEngine.mm:73|||willEnterForGround and requestNewRecommendGroup
+2014-06-04 21:45:21.714 Info|15d3d3b0|23444|QQPushMsgMonitor.mm:285|pushMonitor||willEnterForeground begin
+2014-06-04 21:45:21.715 Event|15d3d3b0|23445|MQZoneUndealCountManager.m:558|QZONE|QZEvent|[M:1][T:0x15d3d3b0]UndealCount|切入前台 ，未联网，不进行拉取
+2014-06-04 21:45:21.715 Event|15d3d3b0|23446|QZImagePickerLibrary.m:510|QZONE|QZEvent|[M:1][T:0x15d3d3b0]QZImagePickerLibrary willEnterForeground no refreshed.
+2014-06-04 21:45:21.715 Info|15d3d3b0|23447|BackGroundRealTimeMessageEngin:155|||BackgroundMessage Log: comHandler release!!
+2014-06-04 21:45:22.020 Event|15d3d3b0|23448|QZImagePickerRecentManager.m:199|QZONE|QZEvent|[M:1][T:0x15d3d3b0]refreshRecentPhoto, allCount:515
+2014-06-04 21:45:22.023 Event|15d3d3b0|23449|QZImagePickerRecentManager.m:235|QZONE|QZEvent|[M:1][T:0x15d3d3b0]refreshRecentPhoto, find:5, tipsCount:15
+2014-06-04 21:45:22.190 Info|15d3d3b0|23450|QQAddressBookAppDelegate.mm:4265|||startLogin,currentAccout:85473375
+2014-06-04 21:45:22.190 Event|15d3d3b0|23451|QQLoginProcessMgr.m:147|||login User With Account:85473375,pwdlen:0
+2014-06-04 21:45:22.190 Info|15d3d3b0|23452|QQLoginProcessMgr.m:149|||TESTTIMECONSUME:login start
+2014-06-04 21:45:22.190 Info|15d3d3b0|23453|QQAccountsManager.mm:336|||>>>>>>>>>>> login YES
+2014-06-04 21:45:22.190 Info|15d3d3b0|23454|QQAccountsManager.mm:338|||>>>>>>>>>>> login log end
+2014-06-04 21:45:22.191 Event|15d3d3b0|23455|LBSServerEngine.mm:1200|||location stop
+2014-06-04 21:45:22.191 Info|15d3d3b0|23456|QIMService.m:505|||registerNotification remove duplicate
+2014-06-04 21:45:22.191 Event|15d3d3b0|23457|QIMService.m:574|||notificationObserverCallBack cmd = DRAWER_REFRESH_NOTIFICATION random = 451146811
+2014-06-04 21:45:22.192 Info|15d3d3b0|23458|DrawerView.m:125|||抽屉界面，收到通知，通知具体内容:NSConcreteNotification 0x17675230 {name = DRAWER_REFRESH_NOTIFICATION; object = loginAccount: 85473375 uin: 85473375, getMsgTime 0.000000,login 1, savePwd 1 birth 129960710, nick WenLe}, thread:<NSThread: 0x15d3d3b0>{name = (null), num = 1}
+2014-06-04 21:45:22.197 Info|15d3d3b0|23459|DrawerMyInfoView.m:122|||抽屉界面，开始加载数据，model:0x15dd1740, uin:85473375, nick:WenLe, level:57
+2014-06-04 21:45:22.197 Info|15d3d3b0|23460|DrawerView.m:143|||抽屉界面，收到其他通知，更新非丰富状态的界面元素
+2014-06-04 21:45:22.198 Info|15d3d3b0|23461|DrawerView.m:152|||抽屉界面收到通知刷新界面元素之后，drawerview frame:{{-160, 0}, {320, 460}}, myinfoview frame:{{0, 31}, {320, 109}}, container in drawerview frame:{{0, 146}, {320, 314}}
+2014-06-04 21:45:22.198 Info|15d3d3b0|23462|QIMService.m:577|||notificationObserverCallBack cmd:DRAWER_REFRESH_NOTIFICATION handle time:0.006625.
+2014-06-04 21:45:22.200 Info|15d3d3b0|23463|QQLoginProcessMgr.m:245|||startConnectProcess
+2014-06-04 21:45:22.200 Event|15d3d3b0|23464|QQNetworkStateMgr.m:173|||setUIShowMode to yes, UIState = Disconnect
+2014-06-04 21:45:22.204 Event|15d1c7d0|23465|NetworkMgrModule.mm:116|MSF|@NC|====## MsfConnect, isBgConn:0
+2014-06-04 21:45:22.205 Event|15d1c7d0|23466|NetworkMgrModule.mm:220|MSF|@NC|====## reconnectCheck, reason = AppInvoke_Connect
+2014-06-04 21:45:22.205 Warn|15d1c7d0|23467|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.205 Info|15d1c7d0|23468|RDMEventTaskManager.m:534|||rdm report event!!: cmd:msf_netChange size:0 time:0 info:{
+    "param_Reason" = 2;
+} 
+2014-06-04 21:45:22.206 Warn|15d1c7d0|23469|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.206 Warn|15d1c7d0|23470|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.206 Warn|15d1c7d0|23471|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.206 Event|15d1c7d0|23472|TcpEngine.mm:105|MSF|@NC|Tcp engine - build connect start S conn
+2014-06-04 21:45:22.206 Event|15d1c7d0|23473|NetworkMgrModule.mm:965|MSF|@NN|DoAutoConnCheck-OnToConn
+2014-06-04 21:45:22.206 Event|15d1c7d0|23474|NetworkMgrModule.mm:971|MSF|@NN|DoAutoConnCheck-OnToConn: start record time
+2014-06-04 21:45:22.206 Event|15d1c7d0|23475|PacketModule.mm:892|MSF|@NC|==## NotifyToConnect
+2014-06-04 21:45:22.206 Warn|15d1c7d0|23476|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.209 Info|15d1c7d0|23477|SSIDMgr.mm:61|MSF|@XX|GetSSID ifs:
+(
+    en0
+)
+
+2014-06-04 21:45:22.215 Info|15d1c7d0|23478|SSIDMgr.mm:66|MSF|@XX|GetSSID info:en0
+{
+    BSSID = "1c:aa:7:c7:8:32";
+    SSID = "Tencent-FreeWiFi";
+    SSIDDATA = <54656e63 656e742d 46726565 57694669>;
+}
+
+2014-06-04 21:45:22.215 Event|15d1c7d0|23479|ServerListModule.cpp:1073|MSF|@SL|rebuild server list check, isWifi = 1, ssid = Tencent-FreeWiFi
+2014-06-04 21:45:22.215 Event|15d1c7d0|23480|ServerListModule.cpp:1079|MSF|@SL|imsi: 46001, countryCode: 460, countryCodeAndNetworkCode: 46001
+2014-06-04 21:45:22.215 Event|15d1c7d0|23481|ServerListModule.cpp:1109|MSF|@SL|no need to rebuild server list
+2014-06-04 21:45:22.218 Info|15d1c7d0|23482|SSIDMgr.mm:61|MSF|@XX|GetSSID ifs:
+(
+    en0
+)
+
+2014-06-04 21:45:22.222 Info|15d1c7d0|23483|SSIDMgr.mm:66|MSF|@XX|GetSSID info:en0
+{
+    BSSID = "1c:aa:7:c7:8:32";
+    SSID = "Tencent-FreeWiFi";
+    SSIDDATA = <54656e63 656e742d 46726565 57694669>;
+}
+
+2014-06-04 21:45:22.222 Event|15d1c7d0|23484|TcpEngine.mm:153|MSF|@NC|Tcp engine - build connect, SNUM:51, PNUM:1
+2014-06-04 21:45:22.222 Warn|15d1c7d0|23485|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.223 Warn|15d1c7d0|23486|MSFNetReachability.mm:80|MSF|@XX|Reachability Flag Status: -R -----l- networkStatusForFlags
+2014-06-04 21:45:22.223 Event|15d1c7d0|23487|ServerListInfoTable.cpp:135|MSF|@SL|server list fail rate,ip:14.17.42.14,port:8080,successCnt:12,failCnt:0,rate:0.000000
+2014-06-04 21:45:22.223 Event|15d1c7d0|23488|ServerListData.cpp:303|MSF|@SL|server list fail factor:0.510000, fail rate:0.000000, ip:14.17.42.14:8080, index:0
+2014-06-04 21:45:22.223 Event|15d1c7d0|23489|ServerListModule.cpp:208|MSF|@XX|get curr addr, wifi index:0 , 2g3g index:-1, isWifi(y/n):1
+2014-06-04 21:45:22.225 Info|15d1c7d0|23490|FileUtil.mm:288|MSF|@XX|file name:/var/mobile/Applications/85487F04-D496-4595-98E0-0EDFF7519BBC/Documents/sso_config.txt
+2014-06-04 21:45:22.225 Event|15d1c7d0|23491|NetworkTester.mm:307|MSF|@XX|do conn check start,seq:3
+2014-06-04 21:45:22.226 Info|15d1c7d0|23492|HttpSysEngine.mm:483|MSF|@PH|hSend:, seqId:3, connId:0x17421170, tag:4 - 5.0.0.890CheckIn90695
+2014-06-04 21:45:22.226 Info|15d1c7d0|23493|KeyEventLogReport.mm:133|MSF|@NN|logReportEvent begin: key:1, timeout:3,reportTime:600
+2014-06-04 21:45:22.231 Event|15d1c7d0|23494|TcpConnect.mm:762|MSF|@NN|## [conn begin] Connecting to sso(i=1)|14.17.42.14|8080|537038076|77332418-B53A-46A4-A293-075E255E1FA4|protocol:0,wifi:Tencent-FreeWiFi-AppInvoke_Connect-HttpIP-1
+2014-06-04 21:45:22.231 Event|15d1c7d0|23495|TcpConnect.mm:763|MSF|@NC|timeout:8
+2014-06-04 21:45:22.231 Event|15d1c7d0|23496|TcpEngine.mm:480|MSF|@KN|onConnect:1,state:1,p:0
+2014-06-04 21:45:22.248 Event|15d1c7d0|23497|TcpEngine.mm:650|MSF|@NC|carrier info, 中国联通:460:01:cn:1 - (null)
+2014-06-04 21:45:22.252 Event|15d1c7d0|23498|TcpConnect.mm:771|MSF|@KN|onConnect...
+2014-06-04 21:45:22.253 Event|15d1c7d0|23499|TcpConnect.mm:782|MSF|@KN|onConnect,to init
+2014-06-04 21:45:22.253 Event|15d1c7d0|23500|TcpConnect.mm:798|MSF|@KN|onConnect,to stream,protocol:0
+2014-06-04 21:45:22.253 Event|15d1c7d0|23501|TcpConnect.mm:821|MSF|@KN|onConnect,to sched
+2014-06-04 21:45:22.254 Event|15d1c7d0|23502|TcpConnect.mm:833|MSF|@KN|onConnect,sched ok
+2014-06-04 21:45:22.254 Event|15d3d3b0|23503|MsfDataAdapter.mm:56|MSF|@XX|SDKNetworkStateUpdated,isBg:0,connType:1,netState:2
+2014-06-04 21:45:22.254 Info|15d3d3b0|23504|MSFApplication.mm:77|||OperationBegin: onMSFNetworkState
+
+2014-06-04 21:45:22.254 Info|15d3d3b0|23505|CIMEngine.mm:709|||OnMSFNetworkState: 2, ToConnect, 1
+2014-06-04 21:45:22.255 Info|15d3d3b0|23506|UniFileTransEngine.mm:590|||uniFileTransEngine toConnect
+2014-06-04 21:45:22.258 Info|15d3d3b0|23507|UniFileTransEngine.mm:599|||网络重连，清除ip列表！！
+2014-06-04 21:45:22.258 Warn|15d3d3b0|23508|QQNetworkStateMgr.m:125|||NetworkStateNotification -> Connecting
+2014-06-04 21:45:22.258 Info|15d3d3b0|23509|MSFApplication.mm:92|||OperationDone: onMSFNetworkState(0.003678)
+
+2014-06-04 21:45:22.258 Warn|15d3d3b0|23510|QQRecentController.mm:1071|||UpdateNetworkState:Connecting
+2014-06-04 21:45:22.259 Info|15d3d3b0|23511|QQRecentController.mm:2401|||showGuideWindow, networkState: 3
+2014-06-04 21:45:22.259 Info|15d3d3b0|23512|QQRecentController.mm:2509|||dissmissNetWorkErrorTips
+2014-06-04 21:45:22.259 Info|15d3d3b0|23513|QQRecentController.mm:434|||pushbannerlog isPushBannerNeedToShow no _adPushbannerIndex=-1
+2014-06-04 21:45:22.259 Info|15d3d3b0|23514|QSContactsEngine.mm:5628|||getShowContactPimBannerTipsStr. 
+2014-06-04 21:45:22.259 Info|15d3d3b0|23515|QSContactsEngine.mm:3173|||isBinding 0
+2014-06-04 21:45:22.259 Info|15d3d3b0|23516|QSContactsEngine.mm:3173|||isBinding 0
+2014-06-04 21:45:22.259 Info|15d3d3b0|23517|QSContactsEngine.mm:5634|||getShowContactPimBannerTipsStr. [self isBinding] = 0
+2014-06-04 21:45:22.259 Info|15d3d3b0|23518|QSContactsEngine.mm:5685|||getShowContactPimBannerTipsStr. 
+2014-06-04 21:45:22.259 Info|15d3d3b0|23519|QSContactsEngine.mm:5621|||isShowContactPimBanner. 0
+2014-06-04 21:45:22.260 Info|15d3d3b0|23520|QQMessageView.m:740|||UpdatePushbannerWithAnimated curBannerType:0,needShowNothing
+2014-06-04 21:45:22.260 Info|15d3d3b0|23521|QQMessageView.m:578|||HidePushBanner bannertype:0 animate:NO
+2014-06-04 21:45:22.260 Info|15d3d3b0|23522|QQRecentController.mm:1688|||消息tab，启动连接中动画
+2014-06-04 21:45:22.260 Info|15d3d3b0|23523|QQRecentController.mm:1160|||TESTTIMECONSUME:显示连接中
+2014-06-04 21:45:22.281 Info|15d1c7d0|23524|TcpConnect.mm:721|MSF|@XX|handleEvent, eventcode:1, self=0x174d5000
+2014-06-04 21:45:22.282 Event|15d1c7d0|23525|TcpConnect.mm:592|MSF|@NC|half connected(i=1)
+2014-06-04 21:45:22.282 Info|15d1c7d0|23526|TcpConnect.mm:721|MSF|@XX|handleEvent, eventcode:1, self=0x174d5000

@@ -1,0 +1,150 @@
+TDemoFileOperator
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch DemoFileOperator/DemoFileOperator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000534794D0000000000000044C
+t1397200080
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534794D000000000000001DE
+t1397200080
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534794D80000000000000ADC
+t1397200088
+s2780
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator-Prefix.pch
+c00000000539D246400000000000000B6
+t1402807396
+s182
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m
+c00000000539D2B3F0000000000000301
+t1402809151
+s769
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m
+c00000000539D2BB0000000000000027C
+t1402809264
+s636
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o
+t2
+s0
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch
+t1402809348
+s123792
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciescff9c983634db941^eacbce83634db941^---0#1#1#--18"Check dependencies36"0CA62B96-B1D4-440D-B584-BECD8D37E85F-
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424502148.126469
+e424502148.296628
+r0
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:17:2: error: non-ASCII characters are not allowed outside of literals and identifiers
+o-（void)setFilePath:(NSString *)filePath
+o ^~
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:17:9: error: expected method body
+o-（void)setFilePath:(NSString *)filePath
+o       ^
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:19:14: warning: assigning instance variable to itself [-Wself-assign-field]
+o    filePath = filePath;
+o             ^
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:29:71: warning: local declaration of 'filePath' hides instance variable [-Wshadow-ivar]
+o    NSFileHandle* aHandle = [NSFileHandle fileHandleForReadingFromURL:filePath error:nil];
+o                                                                      ^
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:29:71: warning: incompatible pointer types sending 'NSString *' to parameter of type 'NSURL *' [-Wincompatible-pointer-types]
+o    NSFileHandle* aHandle = [NSFileHandle fileHandleForReadingFromURL:filePath error:nil];
+o                                                                      ^~~~~~~~
+oIn module 'Foundation' imported from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h:41:44: note: passing argument to parameter 'url' here
+o+ (id)fileHandleForReadingFromURL:(NSURL *)url error:(NSError **)error NS_AVAILABLE(10_6, 4_0);
+o                                           ^
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:35:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+o    NSLog(fileContents);
+o          ^~~~~~~~~~~~
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:36:12: warning: incompatible pointer types returning 'NSData *' from a function with result type 'NSString *' [-Wincompatible-pointer-types]
+o    return fileContents;
+o           ^~~~~~~~~~~~
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:11:17: warning: method definition for 'setFilePath:' not found [-Wincomplete-implementation]
+o@implementation DemoFileOperator
+o                ^
+oIn file included from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:9:
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h:14:1: note: method 'setFilePath:' declared here
+o-(void)setFilePath:(NSString *)filePath;
+o^
+o6 warnings and 2 errors generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m292"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o DemoFileOperator/DemoFileOperator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler08722084634db941^aaf04b84634db941^-2955"/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:17:2: error: non-ASCII characters are not allowed outside of literals and identifiers-（void)setFilePath:(NSString *)filePath ^~/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:17:9: error: expected method body-（void)setFilePath:(NSString *)filePath       ^/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:19:14: warning: assigning instance variable to itself [-Wself-assign-field]    filePath = filePath;             ^/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:29:71: warning: local declaration of 'filePath' hides instance variable [-Wshadow-ivar]    NSFileHandle* aHandle = [NSFileHandle fileHandleForReadingFromURL:filePath error:nil];                                                                      ^/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:29:71: warning: incompatible pointer types sending 'NSString *' to parameter of type 'NSURL *' [-Wincompatible-pointer-types]    NSFileHandle* aHandle = [NSFileHandle fileHandleForReadingFromURL:filePath error:nil];                                                                      ^~~~~~~~In module 'Foundation' imported from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h:41:44: note: passing argument to parameter 'url' here+ (id)fileHandleForReadingFromURL:(NSURL *)url error:(NSError **)error NS_AVAILABLE(10_6, 4_0);                                           ^/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:35:11: warning: format string is not a string literal (potentially insecure) [-Wformat-security]    NSLog(fileContents);          ^~~~~~~~~~~~/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:36:12: warning: incompatible pointer types returning 'NSData *' from a function with result type 'NSString *' [-Wincompatible-pointer-types]    return fileContents;           ^~~~~~~~~~~~/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:11:17: warning: method definition for 'setFilePath:' not found [-Wincomplete-implementation]@implementation DemoFileOperator                ^In file included from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m:9:/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h:14:1: note: method 'setFilePath:' declared here-(void)setFilePath:(NSString *)filePath;^6 warnings and 2 errors generat-0#0#1#-19%DVTDocumentLocation2@101"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m0000000000000000^3902"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o DemoFileOperator/DemoFileOperator.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/DemoFileOperator.o36"4DE526FD-809C-46F1-BE80-0C501CD2FE4E-
+b9BD56927-3F38-403D-8490-20E3672182CD
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424502148.126663
+e424502148.195784
+r0
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator.h
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m:23:36: error: expected identifier
+o        [dfo readFile:[dfo.filePath]];
+o                                   ^
+o1 error generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m268"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o DemoFileOperator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e7d2084634db941^a81d3284634db941^-212"/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m:23:36: error: expected identifier        [dfo readFile:[dfo.filePath]];                                   ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@19"Expected identifier-424502148#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m0000000000000000^22#35#22#35#420#0#11"Parse Issue--0#0#1#-19%DVTDocumentLocation4@89"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m0000000000000000^3830"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o DemoFileOperator/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/main.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/Objects-normal/x86_64/main.o36"B5FB55E5-68E3-4CB8-8EAC-1237E0526796-
+b9BD56927-3F38-403D-8490-20E3672182CD
+
+CLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/DemoFileOperator normal x86_64
+r0
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch DemoFileOperator/DemoFileOperator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424502147.809684
+e424502148.125860
+r1
+xProcessPCH
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch
+xDemoFileOperator/DemoFileOperator-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile DemoFileOperator/DemoFileOperator-Prefix.pch314"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch DemoFileOperator/DemoFileOperator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera48cd083634db941^a0382084634db941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator-Prefix.pch0000000000000000^3775"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch DemoFileOperator/DemoFileOperator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DemoFileOperator-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoFileOperator.build/Debug/DemoFileOperator.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.d -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/DemoFileOperator/DemoFileOperator-Prefix.pch -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoFileOperator-Prefix-aqjxkiandknhmmbkydtusgymwexi/DemoFileOperator-Prefix.pch.pch36"BFAE4EC4-D6BE-408F-8FF6-AEB1614C97A3-
+b9BD56927-3F38-403D-8490-20E3672182CD
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Index/PrecompiledHeaders/DemoFileOperator-Prefix-aaiuqxejssxslagdzbqmujrfurik_ast/DemoFileOperator-Prefix.pch.pch DemoFileOperator/DemoFileOperator-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

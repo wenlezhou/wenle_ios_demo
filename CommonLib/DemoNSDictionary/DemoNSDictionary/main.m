@@ -303,7 +303,8 @@ int main(int argc, const char * argv[])
 //        [tc test_getDictValueByKey];
 //        [tc test_getDictAllKey];
 //        [tc test_iteratorDict1];
-        [tc test_iteratorDict2];
+//        [tc test_iteratorDict2];
+        [tc test_iteratorDict3];
         
         
     }

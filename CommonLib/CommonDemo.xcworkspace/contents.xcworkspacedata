@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:LineReader/LineReader.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DemoFileOperator/DemoFileOperator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DemoNSString/DemoNSString.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:DemoNSDictionary/DemoNSDictionary.xcodeproj">
    </FileRef>
 </Workspace>

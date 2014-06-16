@@ -1,0 +1,368 @@
+TLineReader
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist
+cCopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib
+cProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch LineReader_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader normal x86_64
+cTouch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000534794D0000000000000044C
+t1397200080
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534794D000000000000001DE
+t1397200080
+s478
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005271FC1100000000000066C0
+t1383201809
+s26304
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o
+t1402924116
+s17716
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o
+t1402924116
+s20660
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReader.LinkFileList
+c00000000539EEC520000000000000330
+t1402924114
+s816
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o
+t1402924116
+s45092
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o
+t1402924116
+s9904
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o
+t1402924116
+s2720
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch
+t1402924116
+s13714784
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app
+t1402924114
+s102
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist
+t1402924114
+s1322
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader
+t1402924116
+s39872
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/PkgInfo
+t1402924114
+s8
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1402924114
+s92
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/MainMenu.nib
+t1402924115
+s38532
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m
+c000000004F0282820000000000000CD9
+t1325564546
+s3289
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/InfoPlist.strings
+c000000004F028282000000000000002D
+t1325564546
+s45
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib
+c000000004F0282820000000000034530
+t1325564546
+s214320
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m
+c000000004F02828200000000000017D1
+t1325564546
+s6097
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist
+c000000004F02828200000000000003EA
+t1325564546
+s1002
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m
+c000000004F02828200000000000011F5
+t1325564546
+s4597
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader_Prefix.pch
+c000000004F0282820000000000000097
+t1325564546
+s151
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m
+c000000004F0282820000000000000F98
+t1325564546
+s3992
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m
+c000000004F0282820000000000000299
+t1325564546
+s665
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies06d718d2234fb941^df4f21d2234fb941^---0#1#1#--18"Check dependencies36"4C12BC66-45B7-4BCB-BA0C-E30413C346BD-
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616916.268972
+e424616916.368920
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m261"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o DirectoryReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler23f744d4234fb941^54725ed4234fb941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m0000000000000000^3508"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o DirectoryReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o36"74E5E3DF-6A73-465A-A532-9466F1AB78CC-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616916.269221
+e424616916.369298
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.h
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m251"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o FileReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera51345d4234fb941^e78a5ed4234fb941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m0000000000000000^3478"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o FileReader.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o36"189410D1-1EB9-4175-BD6D-6E2D0E1F81D5-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616916.268732
+e424616916.375126
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.h
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/DirectoryReader.h
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/FileReader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m273"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o LineReaderAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfce444d4234fb941^1c0960d4234fb941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m0000000000000000^3544"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o LineReaderAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReaderAppDelegate.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o36"0258AE97-B18B-4194-8257-5CC4ACC01E8A-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616916.351075
+e424616916.385189
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m263"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o NSDataExtensions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd0f159d4234fb941^a69d62d4234fb941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m0000000000000000^3514"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o NSDataExtensions.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/NSDataExtensions.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o36"842B302E-360B-4212-9A3C-88E085335B01-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616916.268423
+e424616916.350863
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m239"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerfad144d4234fb941^35d359d4234fb941^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m0000000000000000^3442"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/main.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o36"BD528665-291D-4644-B63F-0ED7CB7DF44A-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCompileXIB /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib
+s424616914.141297
+e424616915.174843
+r1
+xCompileXIB
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib:576: note: View is clipping its content [13]
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compiling /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib37"CompileXIB English.lproj/MainMenu.xiba25e24d2234fb941^8fc32cd3234fb941^-160"/* com.apple.ibtool.document.notices *//Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib:576: note: View is clipping its content1(21%IDEActivityLogMessage2@28"View is clipping its content-424616915#18446744073709551615#0#-0#-23%DVTTextDocumentLocation3@86"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib0000000000000000^575#18446744073709551615#575#18446744073709551615#18446744073709551615#0#15"Clipped Content--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib0000000000000000^586"CompileXIB English.lproj/MainMenu.xib    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/MainMenu.nib /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/MainMenu.xib36"8B9B9C94-58B9-4626-9E33-20D2A5F3C80A-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CCopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s424616914.140152
+e424616914.144139
+r1
+xCopyStringsFile
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings199"CopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings2dee23d2234fb941^9be724d2234fb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/English.lproj/InfoPlist.strings0000000000000000^519"CopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"4E9A2C88-C749-435A-8558-CE3C6B4D5BC5-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader normal x86_64
+s424616916.386012
+e424616916.601861
+r1
+xLd
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader
+xnormal
+xx86_64
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReader.LinkFileList
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/main.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReaderAppDelegate.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/DirectoryReader.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/FileReader.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/NSDataExtensions.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader143"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader normal x86_64cedd62d4234fb941^49149ad4234fb941^---0#0#1#--1227"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader normal x86_64    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug -filelist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReader.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/Objects-normal/x86_64/LineReader_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/MacOS/LineReader36"3677609E-E596-403F-B32E-E4BC0B125384-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist
+s424616914.135168
+e424616914.139717
+r1
+xProcessInfoPlistFile
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist163"ProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist LineReader-Info.plist7c0f23d2234fb941^48c523d2234fb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist0000000000000000^620"ProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist LineReader-Info.plist    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    builtin-infoPlistUtility /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader-Info.plist -genpkginfo /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app/Contents/Info.plist36"563D29A6-CACD-486B-AEF8-189D5EA265D0-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch LineReader_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424616915.176151
+e424616916.267746
+r1
+xProcessPCH
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch
+xLineReader_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile LineReader_Prefix.pch279"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch LineReader_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb62e2dd3234fb941^878b44d4234fb941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader_Prefix.pch0000000000000000^3387"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch LineReader_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/LineReader-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources/x86_64 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/LineReader.build/Debug/LineReader.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.dia -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.d -c /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader/LineReader_Prefix.pch -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/LineReader_Prefix-ebhdebqwesogbebxuarfuqjyckpo/LineReader_Prefix.pch.pch36"D186E8E5-659A-4A9F-BD66-A9D01ED3F68B-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Index/PrecompiledHeaders/LineReader_Prefix-epnhtjvcqaujebetmuhmhmehogws_ast/LineReader_Prefix.pch.pch LineReader_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app
+s424616916.602796
+e424616916.607788
+r1
+xTouch
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app106"Touch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app6d599ad4234fb941^7c9a9bd4234fb941^---0#0#1#--290"Touch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/LineReader    /usr/bin/touch -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug/LineReader.app36"F8AF1359-AD97-4EC3-A330-8E197B24EBFB-
+b032513D4-E5B3-44DC-A8E8-785993D61009
+
