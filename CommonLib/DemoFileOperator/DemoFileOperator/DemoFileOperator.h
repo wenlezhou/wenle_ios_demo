@@ -15,4 +15,5 @@
 -(void)setFilePath:(NSString *)filePath1;
 -(NSString *)filePath;
 -(void)readFileByLine:(NSString *)filePath;
+-(void)writeFile:(NSString *)filePath fileContents:(NSString*)fileConten;
 @end

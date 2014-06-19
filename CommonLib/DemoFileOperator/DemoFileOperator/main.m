@@ -36,6 +36,17 @@
     }
     
 }
+-(void) test_writeFile
+{
+    
+    @autoreleasepool {
+        DemoFileOperator *dfo = [[DemoFileOperator alloc]init];
+        [dfo setFilePath:@"/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileOperator/resourse/File.strings"];
+        [dfo writeFile:[dfo filePath] fileContents:@"hello world"];
+    }
+    
+}
+
 
 
 @end
@@ -49,7 +60,7 @@ int main(int argc, const char * argv[])
         
         TestClass *tc = [[TestClass alloc]init  ];
 //        [tc test_fileRead];
-        [tc test_fileReadLine];
+        [tc test_writeFile];
     }
     return 0;
 }

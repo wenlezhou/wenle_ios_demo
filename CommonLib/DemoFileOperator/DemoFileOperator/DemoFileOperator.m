@@ -60,4 +60,20 @@
 }
 
 
+//在文件尾写入内容
+-(void)writeFile:(NSString *)filePath fileContents:(NSString*)fileConten
+{
+    NSFileHandle* aHandle = [NSFileHandle fileHandleForWritingAtPath:filePath];
+    [aHandle seekToEndOfFile];
+    NSData *da = [[NSData alloc]init];
+    da = [fileConten dataUsingEncoding:NSUTF8StringEncoding];
+    [aHandle writeData:da];
+    [aHandle closeFile];
+}
+
+
+
+
+
+
 @end
