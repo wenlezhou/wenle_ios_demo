@@ -3,6 +3,7 @@ v6
 r1
 cCheck dependencies
 cProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/PrecompiledHeaders/DemoFileManager-Prefix-hixrcbznaftgyabmdyrecipeobbc/DemoFileManager-Prefix.pch.pch DemoFileManager/DemoFileManager-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -239,6 +240,16 @@ c0000000053A4FBF00000000000000158
 t1403321328
 s344
 
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.h
+c0000000053A54B11000000000000017A
+t1403341585
+s378
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m
+c0000000053A54CCA00000000000005C4
+t1403342026
+s1476
+
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerAppDelegate.h
 c0000000053A4FBF00000000000000134
 t1403321328
@@ -250,14 +261,14 @@ t1403321328
 s2049
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.h
-c0000000053A51A2B00000000000000FC
-t1403329067
-s252
+c0000000053A55C2800000000000000FB
+t1403345960
+s251
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m
-c0000000053A5374B0000000000000501
-t1403336523
-s1281
+c0000000053A55F3A0000000000000619
+t1403346746
+s1561
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/Images.xcassets
 c0000000053A4FBF00000000000000088
@@ -275,17 +286,21 @@ t1403321328
 s368
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager.LinkFileList
-c0000000053A51CB5000000000000027C
-t1403329717
-s636
+c0000000053A54B11000000000000034E
+t1403341585
+s846
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o
+t1403342656
+s12104
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerAppDelegate.o
 t1403329719
 s62904
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o
-t1403336526
-s48492
+t1403346748
+s49844
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/main.o
 t1403329719
@@ -304,11 +319,11 @@ t1403329719
 s117140
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app
-t1403336529
-s306
+t1403346748
+s408
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM
-t1403336529
+t1403346457
 s102
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/Base.lproj/Main.storyboardc
@@ -316,8 +331,8 @@ t1403336887
 s170
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager
-t1403336526
-s22560
+t1403346748
+s24656
 
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/Info.plist
 t1403329720
@@ -330,6 +345,33 @@ s8
 N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/en.lproj/InfoPlist.strings
 t1403329719
 s42
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log
+t1403341638
+s2792
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log
+t1403341638
+s2792
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log
+t1403341638
+s2792
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件3.log
+c0000000053A540920000000000000AE8
+t1403338898
+s2792
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件4.log
+c0000000053A540920000000000000AE8
+t1403338898
+s2792
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件5.log
+c0000000053A540920000000000000AE8
+t1403338898
+s2792
 
 N/usr/lib/libSystem.B.dylib
 c0000000053995804000000000000E6D0
@@ -466,6 +508,9 @@ c000000005271FC2A00000000000199F0
 t1383201834
 s104944
 
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m
+r0
+
 CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerAppDelegate.m
 r0
 
@@ -477,7 +522,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5b955c367055b941^ff055e367055b941^---0#1#1#--18"Check dependencies36"CCE0F877-75D9-4518-87CB-9C35A616B6AD-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6d3854bc9655b941^ecdc54bc9655b941^---0#1#1#--18"Check dependencies36"CA8C773D-198A-4142-A59E-0C49565C0C25-
 
 CCompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/Images.xcassets
 s425022519.515284
@@ -493,6 +538,22 @@ o/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileM
 o
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"CompileAssetCatalog DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app DemoFileManager/Images.xcassets136"CompileAssetCatalog DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app DemoFileManager/Images.xcassets84f583375455b941^4b3a8e385455b941^-575"/* com.apple.actool.compilation-results *//Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/LaunchImage-700-568h@2x.png/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/Assets.car/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@97"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/Images.xcassets/0000000000000000^1409"CompileAssetCatalog DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app DemoFileManager/Images.xcassets    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/Images.xcassets36"4F7BEE97-D220-48C5-A725-9A1B2EA4B3F3-
 b00AFD17D-0C3E-46A2-989A-8BF5C0B3074A
+
+CCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s425035455.659715
+e425035456.216535
+r1
+xCompileC
+xDerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m262"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o DemoFileManager/DirectoryReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6f2ba9bf8655b941^897837c08655b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m0000000000000000^4550"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o DemoFileManager/DirectoryReader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources/i386 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/PrecompiledHeaders/DemoFileManager-Prefix-hixrcbznaftgyabmdyrecipeobbc/DemoFileManager-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o36"944A13F4-384E-4A40-951D-881CCA88DF89-
+b03844BB4-3253-4B1C-A47B-FC4260C952BB
 
 CCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s425022519.153037
@@ -511,8 +572,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compil
 b00AFD17D-0C3E-46A2-989A-8BF5C0B3074A
 
 CCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s425029325.889601
-e425029326.503074
+s425039548.333927
+e425039548.779278
 r1
 xCompileC
 xDerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o
@@ -523,8 +584,9 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m282"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerec4de4cd6e55b941^1cce80ce6e55b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m0000000000000000^4610"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources/i386 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/PrecompiledHeaders/DemoFileManager-Prefix-hixrcbznaftgyabmdyrecipeobbc/DemoFileManager-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o36"75337715-8F49-458B-8602-BF36BB057132-
-b1D4443E6-CEBB-42EC-82CC-F1CBE55A3D0A
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DirectoryReader.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m282"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler73a255bc9655b941^177fc7bc9655b941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m0000000000000000^4610"CompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o DemoFileManager/FileManagerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DemoFileManager-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources/i386 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/PrecompiledHeaders/DemoFileManager-Prefix-hixrcbznaftgyabmdyrecipeobbc/DemoFileManager-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/FileManagerViewController.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o36"D7EA5436-AC48-4094-960E-FF6ACDB00E9C-
+b4BD40867-FB0B-42CC-9ED6-D06EE78AA40F
 
 CCompileC DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s425022519.153239
@@ -561,19 +623,49 @@ xDemoFileManager/en.lproj/InfoPlist.strings
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy DemoFileManager/en.lproj/InfoPlist.strings170"CopyStringsFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/en.lproj/InfoPlist.strings DemoFileManager/en.lproj/InfoPlist.strings82e283375455b941^e77184375455b941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/en.lproj/InfoPlist.strings0000000000000000^719"CopyStringsFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/en.lproj/InfoPlist.strings DemoFileManager/en.lproj/InfoPlist.strings    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/en.lproj -- DemoFileManager/en.lproj/InfoPlist.strings36"6761CEE8-C923-440C-8377-FF5FC20F76E4-
 b00AFD17D-0C3E-46A2-989A-8BF5C0B3074A
 
+CCpResource 目标文件夹/文件3.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log
+s425034438.542671
+e425034438.545656
+r1
+xCpResource
+x目标文件夹/文件3.log
+xDerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log135"CpResource 目标文件夹/文件3.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log27f88ac68255b941^f1128cc68255b941^---0#0#1#-19%DVTDocumentLocation2@173"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/%E6%96%87%E4%BB%B63.log00347884ddffdf42^737"CpResource 目标文件夹/文件3.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件3.log    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件3.log /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app36"D1347BCF-AC1D-468A-AB21-9A34092F1B70-
+b2659BD90-4D86-47F6-AA9D-7DE4FB1560F7
+
+CCpResource 目标文件夹/文件4.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log
+s425034438.541847
+e425034438.545684
+r1
+xCpResource
+x目标文件夹/文件4.log
+xDerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log135"CpResource 目标文件夹/文件4.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log21cb8ac68255b941^e7188cc68255b941^---0#0#1#-19%DVTDocumentLocation2@173"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/%E6%96%87%E4%BB%B64.log00347884ddffdf42^737"CpResource 目标文件夹/文件4.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件4.log    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件4.log /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app36"2EDB4D28-DCFE-4D54-859B-A7EB5EAEB61B-
+b2659BD90-4D86-47F6-AA9D-7DE4FB1560F7
+
+CCpResource 目标文件夹/文件5.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log
+s425034438.542117
+e425034438.545632
+r1
+xCpResource
+x目标文件夹/文件5.log
+xDerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log135"CpResource 目标文件夹/文件5.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log6fd48ac68255b941^c7108cc68255b941^---0#0#1#-19%DVTDocumentLocation2@173"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/%E6%96%87%E4%BB%B65.log00347884ddffdf42^737"CpResource 目标文件夹/文件5.log DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/文件5.log    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/目标文件夹/文件5.log /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app36"C626FE1F-BAEB-481B-B7A1-36E709DC25D3-
+b2659BD90-4D86-47F6-AA9D-7DE4FB1560F7
+
 CGenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager
-s425029329.601094
-e425029329.649459
+s425039548.868866
+e425039548.892076
 r1
 xGenerateDSYMFile
 x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM
 x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Generate /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM207"GenerateDSYMFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager06f199d16e55b941^bb43a6d16e55b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM/0000000000000000^878"GenerateDSYMFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM36"DBCB38D9-4850-4DFA-BC7F-FEBCF67BF299-
-b1D4443E6-CEBB-42EC-82CC-F1CBE55A3D0A
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Generate /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM207"GenerateDSYMFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager7979debc9655b941^d05fe4bc9655b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM/0000000000000000^878"GenerateDSYMFile DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app.dSYM36"C41B0AB0-5B58-4D2B-B855-FF3752DBE662-
+b4BD40867-FB0B-42CC-9ED6-D06EE78AA40F
 
 CLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager normal i386
-s425029326.504480
-e425029326.707250
+s425039548.780811
+e425039548.867286
 r1
 xLd
 x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager
@@ -581,6 +673,7 @@ xnormal
 xi386
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager.LinkFileList
 d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DirectoryReader.o
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerAppDelegate.o
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/main.o
 d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/FileManagerViewController.o
@@ -647,8 +740,8 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Link /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager115"Ld DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager normal i386873581ce6e55b941^8010b5ce6e55b941^---0#0#1#--1751"Ld DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager normal i386    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -filelist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager36"54598765-03D9-438C-95B0-40FD12F2DC27-
-b1D4443E6-CEBB-42EC-82CC-F1CBE55A3D0A
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection163"Link /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager115"Ld DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager normal i386c3f2c7bc9655b941^9207debc9655b941^---0#0#1#--1751"Ld DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager normal i386    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator -filelist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Intermediates/DemoFileManager.build/Debug-iphonesimulator/DemoFileManager.build/Objects-normal/i386/DemoFileManager_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/DemoFileManager36"2E93E0D7-62EE-445D-9864-49BADE3A5E9A-
+b4BD40867-FB0B-42CC-9ED6-D06EE78AA40F
 
 CProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DerivedData/DemoFileManager/Build/Products/Debug-iphonesimulator/DemoFileManager.app/Info.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoFileManager/DemoFileManager/DemoFileManager-Info.plist
 s425022520.556117

@@ -21,9 +21,7 @@
 		F06807D819553370004BBAB8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F06807BA19553370004BBAB8 /* UIKit.framework */; };
 		F06807E019553370004BBAB8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F06807DE19553370004BBAB8 /* InfoPlist.strings */; };
 		F06807E219553370004BBAB8 /* DemoFileManagerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F06807E119553370004BBAB8 /* DemoFileManagerTests.m */; };
-		F06807F11955790B004BBAB8 /* 文件3.log in Resources */ = {isa = PBXBuildFile; fileRef = F06807EC1955790B004BBAB8 /* 文件3.log */; };
-		F06807F21955790B004BBAB8 /* 文件4.log in Resources */ = {isa = PBXBuildFile; fileRef = F06807ED1955790B004BBAB8 /* 文件4.log */; };
-		F06807F31955790B004BBAB8 /* 文件5.log in Resources */ = {isa = PBXBuildFile; fileRef = F06807EE1955790B004BBAB8 /* 文件5.log */; };
+		F06807F619557BEC004BBAB8 /* DirectoryReader.m in Sources */ = {isa = PBXBuildFile; fileRef = F06807F519557BEC004BBAB8 /* DirectoryReader.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,9 +54,8 @@
 		F06807DD19553370004BBAB8 /* DemoFileManagerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DemoFileManagerTests-Info.plist"; sourceTree = "<group>"; };
 		F06807DF19553370004BBAB8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F06807E119553370004BBAB8 /* DemoFileManagerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoFileManagerTests.m; sourceTree = "<group>"; };
-		F06807EC1955790B004BBAB8 /* 文件3.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "文件3.log"; sourceTree = "<group>"; };
-		F06807ED1955790B004BBAB8 /* 文件4.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "文件4.log"; sourceTree = "<group>"; };
-		F06807EE1955790B004BBAB8 /* 文件5.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "文件5.log"; sourceTree = "<group>"; };
+		F06807F419557BEC004BBAB8 /* DirectoryReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DirectoryReader.h; sourceTree = "<group>"; };
+		F06807F519557BEC004BBAB8 /* DirectoryReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DirectoryReader.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,7 +85,6 @@
 		F06807AA19553370004BBAB8 = {
 			isa = PBXGroup;
 			children = (
-				F06807EB1955790B004BBAB8 /* 目标文件夹 */,
 				F06807BC19553370004BBAB8 /* DemoFileManager */,
 				F06807DB19553370004BBAB8 /* DemoFileManagerTests */,
 				F06807B519553370004BBAB8 /* Frameworks */,
@@ -133,6 +129,8 @@
 		F06807BD19553370004BBAB8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F06807F419557BEC004BBAB8 /* DirectoryReader.h */,
+				F06807F519557BEC004BBAB8 /* DirectoryReader.m */,
 				F06807BE19553370004BBAB8 /* DemoFileManager-Info.plist */,
 				F06807BF19553370004BBAB8 /* InfoPlist.strings */,
 				F06807C219553370004BBAB8 /* main.m */,
@@ -157,32 +155,6 @@
 				F06807DE19553370004BBAB8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		F06807EB1955790B004BBAB8 /* 目标文件夹 */ = {
-			isa = PBXGroup;
-			children = (
-				F06807EC1955790B004BBAB8 /* 文件3.log */,
-				F06807ED1955790B004BBAB8 /* 文件4.log */,
-				F06807EE1955790B004BBAB8 /* 文件5.log */,
-				F06807EF1955790B004BBAB8 /* 文件夹1 */,
-				F06807F01955790B004BBAB8 /* 文件夹2 */,
-			);
-			path = "目标文件夹";
-			sourceTree = "<group>";
-		};
-		F06807EF1955790B004BBAB8 /* 文件夹1 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "文件夹1";
-			sourceTree = "<group>";
-		};
-		F06807F01955790B004BBAB8 /* 文件夹2 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "文件夹2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -264,10 +236,7 @@
 			files = (
 				F06807CF19553370004BBAB8 /* Images.xcassets in Resources */,
 				F06807C119553370004BBAB8 /* InfoPlist.strings in Resources */,
-				F06807F21955790B004BBAB8 /* 文件4.log in Resources */,
-				F06807F31955790B004BBAB8 /* 文件5.log in Resources */,
 				F06807CA19553370004BBAB8 /* Main.storyboard in Resources */,
-				F06807F11955790B004BBAB8 /* 文件3.log in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F06807F619557BEC004BBAB8 /* DirectoryReader.m in Sources */,
 				F06807C719553370004BBAB8 /* FileManagerAppDelegate.m in Sources */,
 				F06807C319553370004BBAB8 /* main.m in Sources */,
 				F06807CD19553370004BBAB8 /* FileManagerViewController.m in Sources */,

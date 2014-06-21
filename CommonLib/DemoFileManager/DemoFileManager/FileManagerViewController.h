@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FileManagerViewController : UITableViewController 
+@interface FileManagerViewController : UITableViewController
 
 @end

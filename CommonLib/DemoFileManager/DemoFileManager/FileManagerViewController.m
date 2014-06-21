@@ -7,17 +7,34 @@
 //
 
 #import "FileManagerViewController.h"
+#import "DirectoryReader.h"
 
 @interface FileManagerViewController ()
 
 @end
 
 @implementation FileManagerViewController
+{
+    NSArray *m_directoryList;
+}
+
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    //获取应用程序根目录
+    NSString *path = NSHomeDirectory();
+    
+    NSArray *directoryList = nil;
+    DirectoryReader *directoryReader = [[DirectoryReader alloc]initWithPath:path];
+    [directoryReader readDirectory:&directoryList];
+    NSLog(@"%@",directoryList); //for debug
+    
+    m_directoryList = directoryList;
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
@@ -28,7 +45,7 @@
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
-    return 5;
+    return [m_directoryList count];
 }
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
@@ -36,12 +53,14 @@
     UITableViewCell *cell = [tableView
                              dequeueReusableCellWithIdentifier:@"ChecklistItem"];
     UILabel *label = (UILabel *)[cell viewWithTag:1000];
-    if (indexPath.row == 0) { label.text = @"文件夹1";
-    } else if (indexPath.row == 1) { label.text = @"文件夹2";
-    } else if (indexPath.row == 2) { label.text = @"文件名3";
-    } else if (indexPath.row == 3) { label.text = @"文件名4";
-    } else if (indexPath.row == 4) { label.text = @"文件名5";
+    for(int i = 0 ;i< [m_directoryList count];i ++)
+    {
+        if (indexPath.row == i) {
+            label.text =[m_directoryList objectAtIndex:i ];
+        }
+  
     }
-    return cell; }
+    return cell;
+}
 
 @end
