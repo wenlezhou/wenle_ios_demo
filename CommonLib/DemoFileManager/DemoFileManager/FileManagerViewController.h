@@ -10,4 +10,6 @@
 
 @interface FileManagerViewController : UITableViewController
 
+-(NSString *) cutDirectoryString:(NSString *)directoryStr;
+
 @end
