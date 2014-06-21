@@ -1,0 +1,20 @@
+2014-06-04 21:45:21.710 Info|15d3d3b0|23441|QSFileStorageEngine.mm:3014|||loadRecommendedGroups filePath /var/mobile/Applications/85487F04-D496-4595-98E0-0EDFF7519BBC/Documents/contents/85473375/RecommendGroups/RecommendGroupsNew.data
+2014-06-04 21:45:21.711 Info|15d3d3b0|23442|CIMEngine.mm:2555|||sso server time diff:-2
+2014-06-04 21:45:21.711 Info|15d3d3b0|23443|QSGroupRecommendEngine.mm:73|||willEnterForGround and requestNewRecommendGroup
+2014-06-04 21:45:21.714 Info|15d3d3b0|23444|QQPushMsgMonitor.mm:285|pushMonitor||willEnterForeground begin
+2014-06-04 21:45:21.715 Event|15d3d3b0|23445|MQZoneUndealCountManager.m:558|QZONE|QZEvent|[M:1][T:0x15d3d3b0]UndealCount|切入前台 ，未联网，不进行拉取
+2014-06-04 21:45:21.715 Event|15d3d3b0|23446|QZImagePickerLibrary.m:510|QZONE|QZEvent|[M:1][T:0x15d3d3b0]QZImagePickerLibrary willEnterForeground no refreshed.
+2014-06-04 21:45:21.715 Info|15d3d3b0|23447|BackGroundRealTimeMessageEngin:155|||BackgroundMessage Log: comHandler release!!
+2014-06-04 21:45:22.020 Event|15d3d3b0|23448|QZImagePickerRecentManager.m:199|QZONE|QZEvent|[M:1][T:0x15d3d3b0]refreshRecentPhoto, allCount:515
+2014-06-04 21:45:22.023 Event|15d3d3b0|23449|QZImagePickerRecentManager.m:235|QZONE|QZEvent|[M:1][T:0x15d3d3b0]refreshRecentPhoto, find:5, tipsCount:15
+2014-06-04 21:45:22.190 Info|15d3d3b0|23450|QQAddressBookAppDelegate.mm:4265|||startLogin,currentAccout:85473375
+2014-06-04 21:45:22.190 Event|15d3d3b0|23451|QQLoginProcessMgr.m:147|||login User With Account:85473375,pwdlen:0
+2014-06-04 21:45:22.190 Info|15d3d3b0|23452|QQLoginProcessMgr.m:149|||TESTTIMECONSUME:login start
+2014-06-04 21:45:22.190 Info|15d3d3b0|23453|QQAccountsManager.mm:336|||>>>>>>>>>>> login YES
+2014-06-04 21:45:22.190 Info|15d3d3b0|23454|QQAccountsManager.mm:338|||>>>>>>>>>>> login log end
+2014-06-04 21:45:22.191 Event|15d3d3b0|23455|LBSServerEngine.mm:1200|||location stop
+2014-06-04 21:45:22.191 Info|15d3d3b0|23456|QIMService.m:505|||registerNotification remove duplicate
+2014-06-04 21:45:22.191 Event|15d3d3b0|23457|QIMService.m:574|||notificationObserverCallBack cmd = DRAWER_REFRESH_NOTIFICATION random = 451146811
+2014-06-04 21:45:22.192 Info|15d3d3b0|23458|DrawerView.m:125|||抽屉界面，收到通知，通知具体内容:NSConcreteNotification 0x17675230 {name = DRAWER_REFRESH_NOTIFICATION; object = loginAccount: 85473375 uin: 85473375, getMsgTime 0.000000,login 1, savePwd 1 birth 129960710, nick WenLe}, thread:<NSThread: 0x15d3d3b0>{name = (null), num = 1}
+2014-06-04 21:45:22.197 Info|15d3d3b0|23459|DrawerMyInfoView.m:122|||抽屉界面，开始加载数据，model:0x15dd1740, uin:85473375, nick:WenLe, level:57
+2014-06-04 21:45:22.197 Info|15d3d3b0|23460|DrawerView.m:143|||抽屉界面，收到其他通知，更新非丰富状态的界面元素

@@ -1,0 +1,442 @@
+TDemoDrawView
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist
+cProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch DemoDrawView/DemoDrawView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView normal armv7
+cCopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings DemoDrawView/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets
+cProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist
+cGenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView
+cProcessProductPackaging /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision
+cTouch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent
+cCodeSign /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000534794A80000000000000094
+t1397200040
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000534794A80000000000000096
+t1397200040
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000534794A8000000000000036B
+t1397200040
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000534794A8000000000000019E
+t1397200040
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534794A900000000004D7BC0
+t1397200041
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000534794AA0000000000A90C10
+t1397200042
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000534794AE0000000002759920
+t1397200046
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000534794D80000000000000ADC
+t1397200088
+s2780
+
+N/Users/wenlezhou/Library/MobileDevice/Provisioning Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision
+c000000005327AE4000000000000027EE
+t1395109440
+s10222
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard
+c0000000053A24CB20000000000000727
+t1403145394
+s1831
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist
+c0000000053A24CB200000000000004CD
+t1403145394
+s1229
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Prefix.pch
+c0000000053A24CB20000000000000158
+t1403145394
+s344
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m
+c0000000053A24CB20000000000000801
+t1403145394
+s2049
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m
+c0000000053A24CB20000000000000223
+t1403145394
+s547
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m
+c0000000053A24E5000000000000014EA
+t1403145808
+s5354
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets
+c0000000053A24CB20000000000000088
+t1403145394
+s136
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/en.lproj/InfoPlist.strings
+c0000000053A24CB2000000000000002D
+t1403145394
+s45
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m
+c0000000053A24CB2000000000000016F
+t1403145394
+s367
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent
+t1403146782
+s432
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawView.LinkFileList
+c0000000053A2521B00000000000002C7
+t1403146779
+s711
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o
+t1403146780
+s62176
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o
+t1403146780
+s39444
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o
+t1403146780
+s67348
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o
+t1403146780
+s3852
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_dependencies.txt
+t1403146782
+s451
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_generated_info.plist
+t1403146782
+s525
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch
+t1403146780
+s88372
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+t1403146782
+s374
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM
+t2
+s0
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Base.lproj/Main.storyboardc
+t1403146782
+s170
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView
+t1403146781
+s60332
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist
+t1403146782
+s1312
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/PkgInfo
+t1403146782
+s8
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist
+t1403146779
+s150
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision
+t1403146782
+s10222
+
+N/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings
+t1403146781
+s42
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m
+r0
+
+CBuild AST from /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesaf092d9b8952b941^50c5459b8952b941^---0#1#1#--18"Check dependencies36"01D2986D-AC2B-4FFD-83E2-9363E944817A-
+
+CCodeSign /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+s424839582.775457
+e424839582.945185
+r1
+xCodeSign
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CodeSign /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app120"CodeSign /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app889cc69e8952b941^3cf8f19e8952b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/0000000000000000^1171"CodeSign /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    Using code signing identity "iPhone Developer: sng tencent (LMSX2PSDM4)" and provisioning profile "tencent sng" (1639FC5F-D468-446C-91D3-1F0BCBF438EB)    /usr/bin/codesign --force --sign 3E1551F1359ED7419D68362A6AEFB4249B3FD138 --resource-rules=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist --entitlements /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app36"0027F93A-3BC7-4186-9D2D-270E88C22174-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets
+s424839581.022067
+e424839582.680761
+r1
+xCompileAssetCatalog
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/LaunchImage-700-568h@2x.png
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Assets.car
+o/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"CompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app DemoDrawView/Images.xcassets160"CompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app DemoDrawView/Images.xcassets35b4059d8952b941^3048ae9e8952b941^-479"/* com.apple.actool.compilation-results *//Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/LaunchImage-700-568h@2x.png/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Assets.car/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets/0000000000000000^1266"CompileAssetCatalog /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app DemoDrawView/Images.xcassets    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Images.xcassets36"21947F61-ACF7-463B-9DD5-9E425C94CC1E-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424839580.544569
+e424839580.776189
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m301"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o DemoDrawView/DemoDrawViewAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe808b9c8952b941^a6b4c69c8952b941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m0000000000000000^4104"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o DemoDrawView/DemoDrawViewAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources/armv7 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o36"37BD0F5A-D61B-4F16-B675-B71CBA071170-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424839580.544274
+e424839580.776012
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m307"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o DemoDrawView/DemoDrawViewViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerd26f8b9c8952b941^daa8c69c8952b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m0000000000000000^4122"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o DemoDrawView/DemoDrawViewViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources/armv7 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewViewController.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o36"8C1A7429-68DC-4BDF-B6E7-D9F59C88B43F-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424839580.545149
+e424839580.835396
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m275"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o DemoDrawView/DrawerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler96af8b9c8952b941^f4ddd59c8952b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m0000000000000000^4026"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o DemoDrawView/DrawerView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources/armv7 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DrawerView.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o36"240FE793-2291-431F-84DE-52BBE9C21133-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424839580.544848
+e424839580.775845
+r1
+xCompileC
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawViewAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m263"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o DemoDrawView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler29928b9c8952b941^c39ec69c8952b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m0000000000000000^3990"CompileC /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o DemoDrawView/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources/armv7 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -include /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.dia -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/main.m -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o36"2B611EF4-CBC7-4B19-8F76-8AD1196EE369-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCompileStoryboard /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard
+s424839581.021670
+e424839582.723282
+r1
+xCompileStoryboard
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard DemoDrawView/Base.lproj/Main.storyboard57"CompileStoryboard DemoDrawView/Base.lproj/Main.storyboard4d9f059d8952b941^ed29b99e8952b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard0000000000000000^853"CompileStoryboard DemoDrawView/Base.lproj/Main.storyboard    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Base.lproj/Main.storyboardc /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/Base.lproj/Main.storyboard36"C21B237A-8134-4B14-8CA6-44F9222A5B7B-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings DemoDrawView/en.lproj/InfoPlist.strings
+s424839581.021491
+e424839581.022652
+r1
+xCopyStringsFile
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings
+xDemoDrawView/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy DemoDrawView/en.lproj/InfoPlist.strings194"CopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings DemoDrawView/en.lproj/InfoPlist.strings3a94059d8952b941^7dce059d8952b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/en.lproj/InfoPlist.strings0000000000000000^699"CopyStringsFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj/InfoPlist.strings DemoDrawView/en.lproj/InfoPlist.strings    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/en.lproj -- DemoDrawView/en.lproj/InfoPlist.strings36"186C2ACE-C5D7-4733-85A6-D7ED95462CF2-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist
+s424839579.247352
+e424839579.248330
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Copy /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist264"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist17643f9b8952b941^24f2459b8952b941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist00347884ddffdf42^861"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app36"54B832D3-359E-48BB-BBA7-6DDE16F24489-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CGenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView
+s424839582.725730
+e424839582.771851
+r1
+xGenerateDSYMFile
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM258"GenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawViewaad3b99e8952b941^e198c59e8952b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM00347884ddffdf42^854"GenerateDSYMFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app.dSYM36"9ACE63E8-0D56-42DF-9312-1473FC866429-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CLd /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView normal armv7
+s424839580.836171
+e424839581.020818
+r1
+xLd
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView
+xnormal
+xarmv7
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawView.LinkFileList
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewViewController.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawViewAppDelegate.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/main.o
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DrawerView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView140"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView normal armv74b1fd69c8952b941^3f55059d8952b941^---0#0#1#--1531"Ld /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView normal armv7    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos -filelist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawView.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/Objects-normal/armv7/DemoDrawView_dependency_info.dat -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/DemoDrawView36"CA16180C-4187-44E3-AF18-2705BA107B68-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist
+s424839582.723855
+e424839582.725364
+r1
+xProcessInfoPlistFile
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist180"ProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist DemoDrawView/DemoDrawView-Info.plist0b5db99e8952b941^fbb1b99e8952b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist0000000000000000^1211"ProcessInfoPlistFile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist DemoDrawView/DemoDrawView-Info.plist    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Info.plist -genpkginfo /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/ResourceRules.plist -additionalcontentfile /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/assetcatalog_generated_info.plist -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/Info.plist36"19EA379E-96C9-46FC-A736-06E73FE7EBAE-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch DemoDrawView/DemoDrawView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424839579.248864
+e424839580.543676
+r1
+xProcessPCH
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch
+xDemoDrawView/DemoDrawView-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile DemoDrawView/DemoDrawView-Prefix.pch297"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch DemoDrawView/DemoDrawView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerc1c83f9b8952b941^dc2f8b9c8952b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Prefix.pch0000000000000000^3903"ProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch DemoDrawView/DemoDrawView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-generated-files.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-own-target-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-all-target-headers.hmap -iquote /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView-project-headers.hmap -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources/armv7 -I/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DerivedSources -F/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.dia -MMD -MT dependencies -MF /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.d -c /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView/DemoDrawView/DemoDrawView-Prefix.pch -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/PrecompiledHeaders/DemoDrawView-Prefix-hheuflnnevqhfcaeptuttcjkvbql/DemoDrawView-Prefix.pch.pch36"B6247302-5F5A-4AF4-A5A5-EE793B8DFC52-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CProcessPCH /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Index/PrecompiledHeaders/DemoDrawView-Prefix-fyocfxuwekqitqbtxwfkkbfdawao_ast/DemoDrawView-Prefix.pch.pch DemoDrawView/DemoDrawView-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent
+s424839582.773885
+e424839582.775174
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection301"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent301"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent8928c69e8952b941^2272c69e8952b941^---0#0#1#-19%DVTDocumentLocation2@163"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent00347884ddffdf42^895"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Intermediates/DemoDrawView.build/Debug-iphoneos/DemoDrawView.build/DemoDrawView.xcent36"97BA8237-9BFB-447B-80AC-F2DC33E93790-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CProcessProductPackaging /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision
+s424839582.772242
+e424839582.773362
+r1
+xProcessProductPackaging
+x/Users/wenlezhou/Library/MobileDevice/Provisioning Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision
+x/Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection274"ProcessProductPackaging /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision274"ProcessProductPackaging /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovisionf5bec59e8952b941^72fbc59e8952b941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision00347884ddffdf42^815"ProcessProductPackaging /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision    cd /Users/wenlezhou/wenle_ios_demo/CommonLib/DemoDrawView    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Users/wenlezhou/Library/MobileDevice/Provisioning\ Profiles/1639FC5F-D468-446C-91D3-1F0BCBF438EB.mobileprovision -o /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app/embedded.mobileprovision36"726C9110-E02B-4061-86D8-6D10BA1A1CA9-
+b7FA7FD09-9E89-4E69-B630-060A27F94FDF
+
+CTouch /Users/wenlezhou/wenle_ios_demo/CommonLib/DerivedData/CommonDemo/Build/Products/Debug-iphoneos/DemoDrawView.app
+r0
+

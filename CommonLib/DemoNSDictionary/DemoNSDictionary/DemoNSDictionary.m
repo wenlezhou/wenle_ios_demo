@@ -16,19 +16,20 @@
     NSDictionary *_demoDict3;
 }
 
-
+//字典的初始化
 -(void)setDemoDict1
 {
     _demoDict1 = [NSDictionary dictionaryWithObjectsAndKeys:@"value1", @"key1", @"value2", @"key2", nil];
 }
 
+//字典的初始化
 -(void)setDemoDict2:(NSDictionary *) dict
 {
-    //初始化字典
     _demoDict2 = dict;
     
 }
 
+//字典的初始化
 -(void)setDemoDict3:(NSString *)str
 {
     //创建一个字典，将字典中的内容设置为指定文件中的所有内容，其语法形式如下：
@@ -37,6 +38,7 @@
     
 }
 
+//字典内容COPY
 -(NSDictionary *)dictContentCopy:(NSDictionary *)destDict dictName2:(NSDictionary *)srcDict
 {
     destDict = [NSMutableDictionary dictionaryWithDictionary:srcDict];
@@ -52,13 +54,7 @@
     [result appendFormat:@"%@",dict];
     return result;
     
-    
-//    for (NSUInteger i = 0 ; i < [dict count];i++)
-//    {
-//        [result appendFormat:@"%@",dict];
-//    }
 }
-
 
 
 -(void)showNSDictionary:(NSDictionary *)dict
@@ -74,19 +70,17 @@
 }
 
 
-
-
-
+//获取字典的数量
 -(NSInteger )getDictCount:(NSDictionary *)dict
 {
     
-    //获取字典的数量
     NSInteger count=[dict count];
     NSLog(@"%d",count);
     return count;
     
 }
 
+//根据key取得字典的值
 -(NSString *)getDictValueByKey:(NSDictionary *)dict keyName:(NSString *)key
 {
     //获取k3的value
@@ -95,6 +89,8 @@
     return string;
 }
 
+
+//获取字典的所有Key
 -(NSArray *)getDictAllKey:(NSDictionary *)dict
 {
     //获取字典中所有的key和value
@@ -115,8 +111,6 @@
         result = [dict objectForKey:[[dict allKeys]objectAtIndex:i]];
         NSLog(result);
     }
-    
-    
 }
 
 //字典的遍历
@@ -126,10 +120,7 @@
    {
        NSString *object = [dict objectForKey:key];
        NSLog(@"[%@:%@]\n",key,object);
-       
    }
-    
-    
 }
 
 //字典的遍历
@@ -144,6 +135,5 @@
     }
     
 }
-
 
 @end
